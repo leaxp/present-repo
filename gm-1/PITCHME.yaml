@@ -6,7 +6,7 @@
 #
 theme : white
 theme-override : assets/css/PITCHME.css
-highlight : monokai
+highlight : monokai-sublime
 # logo : assets/image/logo.png
 transition : fade
 published : true
