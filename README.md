@@ -6,4 +6,4 @@
 ___
 
 
-### [(31.01.2018)](https://gitpitch.com/leaxp/GitPresent/branch?p=gm-1) - Machine Learning to Scientific Applications
+### [(31.01.2018)](https://gitpitch.com/leaxp/present-repo/master?p=gm-1) - Machine Learning to Scientific Applications
