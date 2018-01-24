@@ -10,6 +10,18 @@ body {
   background-color: #fff;
 }
 
+div.a {
+    font-size: 15px;
+}
+
+div.b {
+    font-size: large;
+}
+
+div.c {
+    font-size: 150%;
+}
+
 html:-webkit-full-screen-ancestor {
   background: #fff;
   background-color: #fff;
