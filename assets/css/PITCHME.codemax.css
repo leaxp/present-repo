@@ -77,3 +77,8 @@ html:-moz-full-screen-ancestor {
 
 .gp-download { margin-left: 10px; }
 
+.reveal .slides {
+    text-align: left;
+    font-size: 20% !important;
+
+}
