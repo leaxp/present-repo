@@ -77,3 +77,12 @@ html:-moz-full-screen-ancestor {
 
 .gp-download { margin-left: 10px; }
 
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+}
