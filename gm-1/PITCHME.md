@@ -7,7 +7,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 ---
 
-<img src="assets/image/dog_chart.png" width="350" align=center>
+<img src="assets/image/dog_chart.png" width="40%" align=left>
 
 - Es um perro!
 
