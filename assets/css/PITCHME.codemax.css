@@ -6,8 +6,8 @@
  */
 
 body {
-  background: #666666;
-  background-color: #666666;
+  background: #fff;
+  background-color: #fff;
 }
 
 
@@ -19,6 +19,13 @@ html:-webkit-full-screen-ancestor {
 html:-moz-full-screen-ancestor {
   background: #fff;
   background-color: #fff;
+}
+
+.reveal {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #666666;
 }
 
 .reveal pre {
