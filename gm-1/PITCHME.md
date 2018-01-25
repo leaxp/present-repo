@@ -7,7 +7,9 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 ---
 
-<img src="../assets/image/dog_chart.png" width=310 align=left>
+<img src="assets/image/dog_chart.png" width=310 align=left>
+
+<br> 
 
 - training |
 - Input |
