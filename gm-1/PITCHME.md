@@ -1,17 +1,14 @@
-<!-- $theme: default -->
 
-## Machine Learning Scientific Applications
+### Machine Learning to Scientific Applications
 
-#### MolNanoPhot  - Group Meeting @ [ICFO](https://www.icfo.es)  
+MolNanoPhot  - Group Meeting @ [ICFO](https://www.icfo.es)  
 
-###### Created by [Alex Duarte](https://github.com/leaxp)
+Created by [Alex Duarte](https://github.com/leaxp)
 
 ---
 
-### Just a silly test
+<img src="assets/image/dog_chart.png" width="350" align=center>
 
-```
-	x = y**2
-```
+- Es um perro!
 
-this is a code
+---
