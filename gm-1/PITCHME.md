@@ -113,7 +113,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 </td>
 </table>
 
-@fa[lightbulb]
+@fa[deaf]
 
 ####  @fa[lightbulb] explore regression methods in experimental physics! <!-- .element: class="fragment" -->
 ---
