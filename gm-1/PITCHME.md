@@ -9,9 +9,9 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 ### AI timeline
 
-<img src="../assets/ai2deep.png" height=270 >
+<img src="assets/image/ai2deep.png" height=270 >
 
-<img src="../assets/image/from_2010.png" height=220 >
+<img src="assets/image/from_2010.png" height=220 >
 
 ---
 
@@ -20,7 +20,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 <table align=left width=340>
 <td>
 <img src="assets/image/imagenet_curve.png" width=340 >
-<img src="imagenet.png" width=280 >
+<img src="assets/image/imagenet.png" width=280 >
 </td>
 </table>
 
