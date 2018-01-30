@@ -151,3 +151,61 @@ Created by [Alex Duarte](https://github.com/leaxp)
 @fa[search-plus fa-lg]
 
 ---
+
+### Microscopy Lateral Resolution
+
+<img src="assets/image/super_res.png" width=320 align=left>
+
+<img src="assets/image/diff_phase.png" width=600 align=right >
+
+
+<span style="font-size:0.6em"> holographic incoherent phase, lambda: 800nn, 1um heigth </span>
+
+---
+
+### Autoencoders localization
+
+<img src="assets/image/holo_autoencoder.png" width=500>
+
++++
+
+<img src="assets/image/noiseless_results.png" width=500>
+
+<span style="font-size:0.6em"> 20k training data samples, 2 emitters </span>
+
++++
+
+<img src="assets/image/noise_results.png" width=500>
+
+<span style="font-size:0.6em"> 30k training data samples, 1-2 emitters </span>
+
++++
+
+
+
+<img src="assets/image/best_res.png" width=500>
+___
+
+<img src="assets/image/distort1.png" width=500>
+
+<img src="assets/image/distort2.png" width=500>
+
+---
+
+### What's next?
+
+Long way to experimental data
+
+
+- Tuning the autoencoders achitecture to 256x256 px <!-- .element: class="fragment" -->
+
+- Try different CNN architectures <!-- .element: class="fragment" -->
+
+- Maybe deconvolved measured data... <!-- .element: class="fragment" -->
+
+
+
+
+---
+
+<img src="assets/image/end.jpg">
