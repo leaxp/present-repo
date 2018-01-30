@@ -9,9 +9,9 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 ### AI timeline
 
-<img src="assets/ai2deep.png" height=270 >
+<img src="../assets/image/ai2deep.png" height=270 >
 
-<img src="assets/from_2010.png" height=220 >
+<img src="../assets/image/from_2010.png" height=220 >
 
 ---
 
@@ -19,8 +19,8 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 <table align=left width=340>
 <td>
-<img src="assets/imagenet_curve.png" width=340 >
-<img src="assets/imagenet.png" width=280 >
+<img src="../assets/image/imagenet_curve.png" width=340 >
+<img src="../assets/image/imagenet.png" width=280 >
 </td>
 </table>
 
@@ -40,15 +40,15 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 ### NVIDIA GTX 1080 Ti 11GB | <span style="color:red"> 3584</span> CUDA cores
 
-<img src="assets/gtx_1080.jpg" width=500>
-<img src="assets/cpu-vs-gpu.jpg" width=400>
+<img src="../assets/image/gtx_1080.jpg" width=500>
+<img src="../assets/image/cpu-vs-gpu.jpg" width=400>
 
 ---
 
 ### Q: How Machines Learn? <span style="font-size:0.7em"> [youtube](https://www.youtube.com/watch?v=R9OHn5ZF4Uo) </span>
 
 
-<img src="assets/supervised_learning.png">
+<img src="../assets/image/supervised_learning.png">
 
 
 ### R: Improving trough training experience. <!-- .element: class="fragment" -->
@@ -57,20 +57,20 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 #### Convolutional Neural Networks (CNN) <span style="font-size:0.7em"> [CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html) </span>
 
-<img src="assets/convnet.png" width=600>
-<img src="assets/convnet_structure.png" >
+<img src="../assets/image/convnet.png" width=600>
+<img src="../assets/image/convnet_structure.png" >
 
 +++
 
 #### CNN recognize patterns
 
-<img src="assets/dog_chart.png" height=575 >
+<img src="../assets/image/dog_chart.png" height=575 >
 
 ---
 
 ### Machine learning applications
 
-<img src="assets/applications.png" height=480 align=left >
+<img src="../assets/image/applications.png" height=480 align=left >
 
 
 - Robotics and autonomous vehicles
