@@ -1,5 +1,5 @@
 
-### Introduction to Machine Learning Scientific Applications
+### Machine Learning to Scientific Applications
 
 MolNanoPhot  - Group Meeting @ [ICFO](https://www.icfo.es)  
 
@@ -113,9 +113,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 </td>
 </table>
 
-<table class="fragment">
-<td> @fa[lightbulb-o] </td><td>
-#### explore regression methods in experimental physics! </td>
-</table>
+ <span class="fragment"> @fa[lightbulb-o] explore regression methods in experimental physics! </span>
+
 
 ---
