@@ -1,5 +1,5 @@
 
-### Machine Learning to Scientific Applications
+### Introduction to Machine Learning Scientific Applications
 
 MolNanoPhot  - Group Meeting @ [ICFO](https://www.icfo.es)  
 
@@ -51,7 +51,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 <img src="assets/image/supervised_learning.png">
 
 
-### R: Improving trough training experience. <!-- .element: class="fragment" -->
+#### R: Improving trough training experience. <!-- .element: class="fragment" -->
 
 ---
 
@@ -113,5 +113,9 @@ Created by [Alex Duarte](https://github.com/leaxp)
 </td>
 </table>
 
-- <span> @fa[lightbulb-o] explore regression methods in experimental physics! </span> <!-- .element: class="fragment" -->
+<table class="fragment">
+<td> @fa[lightbulb-o] </td><td>
+#### explore regression methods in experimental physics! </td>
+</table>
+
 ---
