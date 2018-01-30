@@ -109,11 +109,41 @@ Created by [Alex Duarte](https://github.com/leaxp)
 <img src="assets/image/convnet_structure.png" align=left >
 </td>
 <td align=center style="vertical-align: middle;">
-<span style="color:red"> Classification </span>
+ Classification
 </td>
 </table>
 
  <span class="fragment"> @fa[lightbulb-o] explore regression methods in experimental physics! </span>
 
+---
+
+<img src="assets/image/error.png" width=800 >
+<img src="assets/image/convnet_structure.png" width=600 >
+
++++
+
+### Deep Learning style transfer
+
+<img src="assets/image/style_transfer.gif" >
+<img src="assets/image/art_transfer.png" >
+
++++
+
+<img src="http://78.media.tumblr.com/82215cb8da6a5e3a42578348f549d4f2/tumblr_o8c6oxtwuw1qba54yo7_540.gif" width=400 align=left>
+
+<img src="http://78.media.tumblr.com/0481d0d07c074417b8759bc4622926a4/tumblr_o8c6oxtwuw1qba54yo8_1280.jpg" width=400>
 
 ---
+### Autoencoders
+
+<img src="assets/image/denoise_autoencoders.png">
+
++++
+
+<img src="assets/image/all_nn.png">
+
+@fa[search-plus fa-lg]
+
+---
+
+## Autoencoders to microscopy localization
