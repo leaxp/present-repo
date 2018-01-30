@@ -20,6 +20,11 @@ html:-moz-full-screen-ancestor {
   background-color: #fff;
 }
 
+.reveal {
+	font-size: 30px;	
+}
+
+
 .reveal pre {
   width: 100%;
   box-shadow : none;
