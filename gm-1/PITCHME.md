@@ -19,7 +19,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 <table align=left width=340>
 <td>
-<img src="assests/image/imagenet_curve.png" width=340 >
+<img src="assets/image/imagenet_curve.png" width=340 >
 <img src="imagenet.png" width=280 >
 </td>
 </table>

@@ -20,8 +20,11 @@ html:-moz-full-screen-ancestor {
   background-color: #fff;
 }
 
-.reveal {
-	font-size: 38px;	
+.reveal {	
+	font-family: 'Lato', sans-serif;
+	font-size: 40px;
+	font-weight: normal;
+	color: #eee;
 }
 
 
