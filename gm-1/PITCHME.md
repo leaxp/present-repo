@@ -126,6 +126,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 ### Deep Learning style transfer
 
 <img src="assets/image/style_transfer.gif" >
+
 <img src="assets/image/art_transfer.png" >
 
 +++
