@@ -40,15 +40,15 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 ### NVIDIA GTX 1080 Ti 11GB | <span style="color:red"> 3584</span> CUDA cores
 
-<img src="gtx_1080.jpg" width=500>
-<img src="cpu-vs-gpu.jpg" width=400>
+<img src="assets/image/gtx_1080.jpg" width=500>
+<img src="assets/image/cpu-vs-gpu.jpg" width=400>
 
 ---
 
 ### Q: How Machines Learn? <span style="font-size:0.7em"> [youtube](https://www.youtube.com/watch?v=R9OHn5ZF4Uo) </span>
 
 
-<img src="supervised_learning.png">
+<img src="assets/image/supervised_learning.png">
 
 
 ### R: Improving trough training experience. <!-- .element: class="fragment" -->
@@ -57,20 +57,20 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 #### Convolutional Neural Networks (CNN) <span style="font-size:0.7em"> [CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html) </span>
 
-<img src="convnet.png" width=600>
-<img src="convnet_structure.png" >
+<img src="assets/image/convnet.png" width=600>
+<img src="assets/image/convnet_structure.png" >
 
 +++
 
 #### CNN recognize patterns
 
-<img src="dog_chart.png" height=575 >
+<img src="assets/image/dog_chart.png" height=575 >
 
 ---
 
 ### Machine learning applications
 
-<img src="applications.png" height=480 align=left >
+<img src="assets/image/applications.png" height=480 align=left >
 
 
 - Robotics and autonomous vehicles
