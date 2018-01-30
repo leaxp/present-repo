@@ -144,8 +144,10 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 <img src="assets/image/all_nn.png">
 
-@fa[search-plus fa-lg]
-
 ---
 
 ## Autoencoders to microscopy localization
+
+@fa[search-plus fa-lg]
+
+---
