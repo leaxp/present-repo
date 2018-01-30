@@ -9,9 +9,9 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 ### AI timeline
 
-<img src=".assets/ai2deep.png" height=270 >
+<img src="./assets/ai2deep.png" height=270 >
 
-<img src=".assets/image/from_2010.png" height=220 >
+<img src="./assets/image/from_2010.png" height=220 >
 
 ---
 
