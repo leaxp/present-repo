@@ -118,6 +118,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 ---
 
 <img src="assets/image/error.png" width=800 >
+
 <img src="assets/image/convnet_structure.png" width=600 >
 
 +++
