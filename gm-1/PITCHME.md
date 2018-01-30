@@ -97,4 +97,21 @@ Created by [Alex Duarte](https://github.com/leaxp)
 
 ### Scientific applications of ML
 
-- Biology @fa[flask]
+
+- Biology @fa[arrows-h] analysis, huge data
+
+- Neuroscience @fa[arrows-h] mapping patterns EEG
+
+- Physics @fa[arrows-h] Theoretical, Statistics
+
+<table class="fragment">
+<td>
+<img src="assets/image/convnet_structure.png" align=left >
+</td>
+<td align=center style="vertical-align: middle;">
+<span style="color:red"> Classification </span>
+</td>
+</table>
+
+####  @fa[lightbulb-o] explore regression methods in experimental physics! <!-- .element: class="fragment" -->
+---
