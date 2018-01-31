@@ -27,7 +27,7 @@ Created by [Alex Duarte](https://github.com/leaxp)
 - CUDA (NVIDIA - 2007) </br>
 <span style="font-size:0.7em"> [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) </span>
 
-- 1st Deep Neural Network (2006) </br>
+- 1st Deep Neural Network (2009) </br>
 <span style="font-size:0.7em">[Geoffrey Hinton et al. - " learning for deep belief nets "](https://doi.org/10.1162%2Fneco.2006.18.7.1527) </span>
 
 - Tensorflow (Google - 2015)
@@ -201,11 +201,16 @@ Long way to experimental data
 
 - Try different CNN architectures <!-- .element: class="fragment" -->
 
-- Maybe deconvolved measured data... <!-- .element: class="fragment" -->
+- Maybe deconvolved measured data? <!-- .element: class="fragment" -->
 
+- Invest in the coherent holograpy microscopy... <!-- .element: class="fragment" -->
 
++++
 
+<img src="assets/image/example.jpg" width=500>
 
 ---
 
 <img src="assets/image/end.jpg">
+
+Fim
